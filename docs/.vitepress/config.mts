@@ -11,6 +11,7 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Blogs", link: "/blogs" },
+      { text: "About me", link: "about.md"}
     ],
 
     sidebar: [
