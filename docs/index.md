@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Arzy"
+  name: "Arzy Abliadzhyieva"
   text: "Interdisciplinary Developer"
   tagline: "a 6.1040 production..."
   actions:
