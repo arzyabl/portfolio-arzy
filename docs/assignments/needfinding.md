@@ -56,4 +56,26 @@ Nigina finds many applications for <span style="color: #5E35B1;">Instagram</span
 
 Still, I am concluding that the interactions she gets from Instagram are not very personal because Nigina yearns for deeper connections. She recalls her college years when it was way easier to make friends. In the mosque, for example, she does not meet people like herself *“situation-wise, aspiration-wise”*. I found this comment interesting compared to Reyana's statement about how she specifically enjoys the diverse backgrounds Islam brings together in gatherings. Clearly, there needs to be a way to accommodate both preferences.
 
-When it comes to seeking knowledge, Nigina talks with excitement about a  <span style="color: #5E35B1;">private online circle<span> she recently joined. In it, Muslim women come together to read the Quran and talk about it. According to Nigina, there are very few of them and she was really lucky to get a spot. Indeed, there seems to be a barrier for many women to access such opportunities, especially when they aren't actively engaged in the community like Reyana. Many of the online circles are not advertised and remain  <span style="color: #5E35B1;">exclusive<span>.
+When it comes to seeking knowledge, Nigina talks with excitement about a  <span style="color: #5E35B1;">private online circle</span> she recently joined. In it, Muslim women come together to read the Quran and talk about it. According to Nigina, there are very few of them and she was really lucky to get a spot. Indeed, there seems to be a barrier for many women to access such opportunities, especially when they aren't actively engaged in the community like Reyana. Many of the online circles are not advertised and remain  <span style="color: #5E35B1;">exclusive</span>.
+
+
+## Design Opportunities
+
+Following the conversations, I identified several **design opportunities**:
+- Ability to search for and join thematic circles, with the option to provide preferences and get best matches
+<img src="C:/Users/Arzy/repos/portfolio-arzy/docs/assignments/images/page_layout.jpg" alt="Search layout" style="width:200px;" />
+- For circle organizers, ability to customize the level of interaction with the audience
+- Homepage where the user can see all her circles and the menu bar that divides circles into categories (e.g. Islamic knowledge, prefessional development, counseling)
+<img src="C:/Users/Arzy/repos/portfolio-arzy/docs/assignments/images/menu_bar_categories.jpg" alt="Categories" style="width:500px;" />
+- Feature that helps users plan their circle schedule around prayer times (Islamic lessons after dawn prayer)
+
+## Raw Notes from User Conversations
+Reyana
+<img src="C:/Users/Arzy/repos/portfolio-arzy/docs/assignments/images/reyana_notes_1.jpg" alt="Reyana 1" style="width:100%;" />
+<img src="C:/Users/Arzy/repos/portfolio-arzy/docs/assignments/images/reyana_notes_2.jpg" alt="Reyana 2" style="width:50%;"/>
+
+
+Nigina
+
+<img src="C:/Users/Arzy/repos/portfolio-arzy/docs/assignments/images/nigina_notes_1.jpg" alt="Nigina 1" style="width:49%;" />
+<img src="C:/Users/Arzy/repos/portfolio-arzy/docs/assignments/images/nigina_notes_2.jpg" alt="Nigina 2"  style="width:49%;" />
