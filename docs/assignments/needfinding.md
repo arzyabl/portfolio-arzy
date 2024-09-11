@@ -26,8 +26,8 @@ I wanted to give open-ended prompts to the interviewees in case they discover do
 
 ### Participant 1: Reyana
 <div style="float:left; margin-right: 20px; text-align:left;width:300px;">
-    <img src="images/avatar1.jpg" alt="Reyana" style="width:200px;" />
-    <ul style="background-color: #f0f0f0; line-height: 1.2;">
+    <img src="../images/avatar1.jpg" alt="Reyana" style="width:200px;" />
+    <ul style="../background-color: #f0f0f0; line-height: 1.2;">
         <li> 20 y.o. </li>
         <li> dental school student </li>
         <li> from Muslim-majority town in Russia</li>
@@ -43,8 +43,8 @@ As for seeking Islamic knowledge, Reyana shares that she is “fortunate to live
 
 ### Participant 2: Nigina
 <div style="float:left; margin-right: 20px; text-align:left;width:300px;">
-    <img src="images/avatar2.jpg" alt="Nigina" style="width:200px;" />
-    <ul style="background-color: #f0f0f0; line-height: 1.2;">
+    <img src="../images/avatar2.jpg" alt="Nigina" style="width:200px;" />
+    <ul style="../background-color: #f0f0f0; line-height: 1.2;">
         <li> 27 y.o. </li>
         <li> trained product manager but currently stay-at-home mom </li>
         <li> Uzbek American living in New Jersey</li>
