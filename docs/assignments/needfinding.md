@@ -20,7 +20,7 @@ I prepared a few **conversation prompts**:
 - Do you use social media and if so, how? 
 - Do you find anything particularly beneficial or useful about that particular platform?
 - How do you gain knowledge about religion? In person, online?
-- Share your experience with women-ony Muslim gatherings.Is it hard to find them and why? What the interactions are like?
+- Share your experience with women-only Muslim gatherings. Is it hard to find them and why? What the interactions are like?
 
 I wanted to give open-ended prompts to the interviewees in case they discover domains I haven’t considered and followed with more specific questions to gain more insights.
 
@@ -63,8 +63,6 @@ When it comes to seeking knowledge, Nigina talks with excitement about a  <span 
 
 Following the conversations, I identified several **design opportunities**:
 - Ability to search for and join thematic circles, with the option to provide preferences and get best matches
-![Alt Text](https://github.com/arzyabl/portfolio-arzy/blob/main/docs/assignments/images/page_layout.jpg)
-
 <img src="https://github.com/arzyabl/portfolio-arzy/blob/main/docs/assignments/images/page_layout.jpg" alt="Search layout" style="width:200px;" />
 - For circle organizers, ability to customize the level of interaction with the audience
 - Homepage where the user can see all her circles and the menu bar that divides circles into categories (e.g. Islamic knowledge, prefessional development, counseling)
