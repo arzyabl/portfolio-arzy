@@ -72,6 +72,7 @@ Following the conversations, I identified several **design opportunities**:
 ## Raw Notes from User Conversations
 Reyana
 <img src="https://github.com/arzyabl/portfolio-arzy/blob/main/docs/assignments/images/reyana_notes_1.jpg" alt="Reyana 1" style="width:100%;" />
+![alt text](./images/reyana_notes_1.jpg){:width='300'}
 <img src="https://github.com/arzyabl/portfolio-arzy/blob/main/docs/assignments/images/reyana_notes_2.jpg" alt="Reyana 2" style="width:50%;"/>
 
 
