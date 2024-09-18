@@ -17,17 +17,16 @@ layout: doc
 ### Sheroes
 Women-only social network with communities, counselling helpline, opportunities, resources and conversations developed in India.
 
+Unfortunately, the mobile version is not available in the U.S., but I was able to test the web version. 
 
-Unfortunately, the mobile version is not available in the U.S. but I was able to test the web version. 
-
-As soon as you sign up and log in, they also ask for interests. Good idea, but bad execution. After selection, the user is signed up for communities on that category without approval.
+As soon as you sign up and log in, they ask for interests. After selection, the user is signed up for communities on that category without approval.  Good idea, but bad execution.
 ![sheroes1.jpg](./images/sheroes1.jpeg){:width="400"}
 
 
-There is a feed with posts from all your communities and people the user is following. I like the design; it is very recognizable, with top-performing posts on the top. However, scrolling this way can become a bit addictive, which does not align with the educational focus of Sisters Halaqa. So, I won’t be creating a feed with all posts and instead have posts sorted out into the communities/chats they belong to. 
+There is a feed with posts from user's communities and people the user is following. I like the design; it is very recognizable, with top-performing posts on the top. However, scrolling this way can become a bit addictive, which does not align with the educational focus of Sisters Halaqa. So, I won’t be creating a feed with all posts and instead have posts sorted out into the communities/chats they belong to. 
 ![sheroes screenshot](./images/sheroes2.jpg){:width="400"}
 
-I like the milestone feature (mine can have 'new', 'student of knowledge', 'scholar', etc.)
+I like the milestone feature (mine can have 'Newbie', 'Student of Knowledge', 'Scholar', etc.)
 ![sheroes screenshot](./images/sheroes3.jpg){:width="400"}
 
 ### Thrive Muslimah
@@ -58,15 +57,15 @@ After brainstorming with Arli Moyao-Ramirez and Adriana Castillo , I came up wit
 5. **Circle matching**: the user answers a series of questions and gets circle matches. Once here is an option to apply to the circle.
 6. **Circle folders**: grouping circles into folders for ease of access and better organization.
 7. **Favorites**: users can flag posts as favorite and this will be stored in a separate ‘chat’ unit. Users can also store images and other files there for easy access. Since the user is the ‘admin’ of her Favourites chat, she can also send timed posts as reminders.
-8. **Circle notes**: Circle members can send notes - aka messages - to other members of the circle. The admin may choose to limit the number of those who have permission to post (for example, only admin, or admin and moderator etc), but any chat member can comment on or react to others’ notes. 
+8. **Circle notes**: circle members can send notes - aka messages - to other members of the circle. The admin may choose to limit the number of those who have permission to post (for example, only admin, or admin and moderator etc), but any chat member can comment on or react to others’ notes. 
 9. **Note formatting**: notes can have different text formatting options (heading, main, cursive, etc), stickers, files, etc. Formats can be accessed by selecting “format” while typing a note.
 10. **Timing notes**: notes can be timed to be released and there is an option to set time to prayer times (after morning prayer etc) which is synched with local mosque. This is useful to send reminders to make certain supplications on specific days and make sure circle members get them according to their time zone.
-11. **Video/voice call**: Initiated by circle admins for circle members to join. Users join as participants, but can also switch to listener mode if they are busy (watching children etc).
-12. **No camera calls?**: Perhaps I should make it that circles can only have voice calls for better privacy. Connection is meant to be built on people’s personalities, not appearance. 
-13. **Ustadha**: The admin selects the ustadha aka the teacher/leader of the session. On calls, ustadha can call on people, mute, present slides, switch between phone or video call.In chats, she can send quizzes and grade assignments.
-14. **Talking circle**: Ustadha can turn on the feature to call participants in a circle order.
+11. **Video/voice call**: initiated by circle admins for circle members to join. Users join as participants, but can also switch to listener mode if they are busy (watching children etc).
+12. **No camera calls?**: perhaps I should make it that circles can only have voice calls for better privacy. Connection is meant to be built on people’s personalities, not appearance. 
+13. **Ustadha**: admin selects the ustadha aka the teacher/leader of the session. On calls, ustadha can call on people, mute, present slides, switch between phone or video call.In chats, she can send quizzes and grade assignments.
+14. **Talking circle**: ustadha can turn on the feature to call participants in a circle order.
 15. **Polls**: posted by admins to collect members' answers/opinions. Can be used by Ustadha as quizzes.
-16. **Private grading**: For completing assignments, members get grades that are private from other members. The intention is to show progress. For the admins, they indicate if the member is doing okay or falling behind.
+16. **Private grading**: for completing assignments, members get grades that are private from other members. The intention is to show progress. For the admins, they indicate if the member is doing okay or falling behind.
 17. **Call reactions**: silent reactions include Islamic sayings like “MashaAllah”, “Alhamndulillah”, etc.
 18. **Scheduling calls**: admins can schedule calls, make them reappearing, etc. Appears to users in their time zone.
 19. **Calendar**: a section where the user can see all scheduled calls and their times.
@@ -75,7 +74,7 @@ After brainstorming with Arli Moyao-Ramirez and Adriana Castillo , I came up wit
 
 
 ## VSD Analysis
-1. **Indirect Stakeholders**: Sisters Halaqa will indirectly affect in-person circle organizers and teachers by dragging some of the students away to online. However, the app is not meant to replace the in person lessons. Because of the app’s focus on text content and voice calls, in-person circles still have an advantage in irreplaceable face-to-face connections. Rather, the app caters towards women who do not have a community they identify with or access to such education resources. Still, many women who are attending such in person gatherings will most likely want to enhance rather than replace them. 
+1. **Indirect Stakeholders**: Sisters Halaqa will indirectly affect in-person circle organizers and teachers by dragging some of their students away to online. However, the app is not meant to replace the in person lessons. Because of the app’s focus on verbal content and camera-less calls, in-person circles still have an advantage in face-to-face connections. Rather, the app caters towards women who do not have a community they identify with or access to such education resources. Still, many women who are attending such in person gatherings will most likely want to enhance rather than replace them. 
 2. **Direct Stakeholders**: Furthermore, the in-person teachers might even turn into direct stakeholders by using the app for its other services (group chats, scheduling, reminders, tests, etc), while holding all live circles in person. Therefore, as a designer, I will need to make sure the app makes sense for that use as well. For example, being able to make private access or make it public only for local users (I like this idea better as it can increase exposure of the in person gatherings to those who happen to live nearby).
 3. **Non-target Use**: I can think of many ways Sisters Halaqa can be used in unintended ways. One is using private for paid services which is not ideal for the app’s mission. However, now that I think about it, some teachers might ask for a symbolic fee that allows them financial independence when they can’t work outside home. As long as there is transparency for users who apply for a circle, that is okay. Payment is not something I will integrate, so Terms of Use must outline that the legal responsibility for declaring income etc is on the app users. To avoid fraud, there will be warning to users as well before joining such circles.
 4. **Time – Sustained Friendships**: As a result of being in the same circle,some members might want to become friends, but they don’t have to. In a way, this is similar to how colleges work, where students come with the main purpose of learning and usually end up making friends, but not all do. Sisters Halaqa is not meant to nurture 1-on-1 friendships but rather create space for Muslim women to learn and socialize. Taking inspiration from colleges, although there won’t be any friends-specific features, the existing features don’t prevent friendships and even channel them to contribute to a larger community. For example, two or more members can create a separate chat to communicate with each other. Or, if two friends who knew each other outside Sisters Halaqa, they can join same circles. This said, a friendship born in Sisters Halaqa can move on to outside the app as college friends continue the relationship after graduation.
