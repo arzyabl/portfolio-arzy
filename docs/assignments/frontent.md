@@ -1,8 +1,8 @@
 ---
-title: Frontend Design- Alpha
+title: Frontend Design
 layout: doc
 ---
-# Frontend Design - Alpha
+# Frontend Design 
 
 ## Heuristic Evaluation
 
