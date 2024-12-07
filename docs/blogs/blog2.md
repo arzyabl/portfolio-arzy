@@ -1,5 +1,5 @@
 ---
-title: Blog 1 - Concept Basics
+title: Blog 2 - Design That Matters
 layout: doc
 ---
 
