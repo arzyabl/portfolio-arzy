@@ -1,0 +1,10 @@
+---
+title: Blog 1 - Concept Basics
+layout: doc
+---
+
+Inspired by the case study of TOMs and Sourcemap, I wanted to explore other businesses aligning incentives and how software developers can really learn from this.
+
+One example that stood out to me was ZipCar, a ride-sharing app targeted at decreasing car ownership and making automobile travel more affordable and climate-friendly. It is a great example of aligning social impact and business goals. From a concept design perspective, ZipCar’s membership model and time-based car rentals create a user experience tailored to urban needs. This alignment of environmental responsibility and user convenience could inspire software developers to consider modular service-based architectures when designing apps for social impact. While this solution is not ideal as it still involves high-emission travel in comparison to public transportation, it does address an important gap for urban residents needing a day trip and freedom that public transportation can’t offer.
+
+In the same industry, another company that stands out is Uber. Their positioning really stresses economic inclusion for those who might face barriers in traditional job markets as well as flexible income for workers while providing affordable on-demand transportation. From a software design perspective, Uber demonstrates the power of scalable platform architectures that connect drivers and riders efficiently. Its algorithms for route optimization, surge pricing, and driver-rider matching highlight the importance of conceptual clarity and operational scalability in building user-centric systems. While drivers pay commission and riders pay for their rides, the alternatives are often more expensive for both. As an international student from a country where people rely on public transportation, I can see how Uber is probably the best option for many people like me who never learned how to drive. In a way, Uber’s design ensures accessibility through diversity of entry points—a key takeaway for software developers striving for inclusivity in their applications.
